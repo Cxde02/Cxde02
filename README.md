@@ -1,5 +1,5 @@
 ### Hi there 👋
-![banner](./gitgif.gif)
+![banner](./banner.gif)
 
 
 
