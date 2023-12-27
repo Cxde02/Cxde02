@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Header](./gbanner.png)
+![Header](<img src="https://widgetbite.com/banner?title=Ahmad.%20R%20Ruhomaun&subtitle=SE%20Student&backgroundpalette=none&fontpalette=water&titletransform=none&subtitletransform=none" width=100% height=100%/>
+)
 
-                <img src="https://widgetbite.com/banner?title=Ahmad.%20R%20Ruhomaun&subtitle=SE%20Student&backgroundpalette=none&fontpalette=water&titletransform=none&subtitletransform=none" width=100% height=100%/>
 
 
 
