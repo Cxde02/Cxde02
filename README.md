@@ -1,5 +1,4 @@
 ### Hi there 👋
-<!--![banner](./banner.gif)-->
 
 
 
@@ -7,6 +6,9 @@
 
 <!--
 **Cxde02/Cxde02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![banner](./banner.gif)
+
 
 Here are some ideas to get you started:
 
