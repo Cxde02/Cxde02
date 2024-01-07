@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://example.com/threejs_logo.png" alt="Three.js" height="50" />
+<a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://zoiqclients.s3.amazonaws.com/zoiqclientlogos/threejs.png" alt="Three.js" height="50" />
 </a>
 
 </div>  
