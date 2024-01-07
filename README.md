@@ -1,6 +1,13 @@
-![banner](./hgif.gif)
-### Hi there 👋
+![banner](./hgif.gif) 
+### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div>  
+  
+- 🔭 I’m currently working on my portfolio  
 
+- 🌱 I’m currently learning Python and Three.js  
+
+- ⚡ Fun fact: I use tabs over spaces  
+
+<br/>  
 
 
 
