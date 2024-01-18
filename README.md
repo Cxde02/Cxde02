@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently working on my portfolio  
 
-- 🌱 I’m currently learning Python and Sass  
+- 🌱 I’m currently learning Python  
 
 - ⚡ Fun fact: I use tabs over spaces  
 
