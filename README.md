@@ -94,13 +94,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxde02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=cxde02&icon=3&color=8)" alt="cxde02" /> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cxde02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cxde02&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cxde02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+[![](https://visitcount.itsvg.in/api?id=cxde02&icon=3&color=8)](https://visitcount.itsvg.in)
 
 
