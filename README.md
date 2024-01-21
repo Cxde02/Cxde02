@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cxde02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=cxde02&label=Profile%20views&color=0e75b6&style=flat" alt="cxde02" /> </p>-->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cxde02&label=Profile%20views&color=4CAF50&style=plastic" alt="cxde02" />
+  <img src="https://komarev.com/ghpvc/?username=cxde02&label=Profile%20views&color=4CAF50&style=flat-square" alt="cxde02" />
 </p>
 
 
