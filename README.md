@@ -94,3 +94,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxde02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cxde02&" alt="cxde02" /></p>
+
