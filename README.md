@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cxde02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" alt="stats graph"  />  <!--height="150"--> 
+  <img src="https://github-readme-stats.vercel.app/api?username=cxde02&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" alt="stats graph"  />  <!--height="150"--> 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cxde02&locale=en&hide_title=false&layout=donut&langs_count=5&theme=blue-green&hide_border=false" alt="languages graph"  />
 </div>
