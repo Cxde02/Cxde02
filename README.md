@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cxde02&locale=en&hide_title=false&layout=donut&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxde02&layout=donut)
 
 
 
