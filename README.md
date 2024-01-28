@@ -1,9 +1,9 @@
 ![banner](./hgif.gif) 
 ### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div><br>  
   
-- 🔭 I’m currently working on a flutter project  
+- 🔭 I’m currently working on a python project
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning Deep Learning  
 
 - ⚡ Fun fact: I use tabs over spaces  
 
