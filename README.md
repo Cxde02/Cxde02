@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 <p align="center">
-  <b>❝Confusion is part of programming❞</b>
+  <b>❝Confusion is part of programming❞ ― Felienne Hermans</b>
 </p>
   
 
