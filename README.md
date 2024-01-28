@@ -2,6 +2,7 @@
 <p align="center">
   <img src="pic.png" alt="pic" height="150"/>
 </p>
+
 ### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div><br>  
   
 - 🔭 I’m currently working on a python project
