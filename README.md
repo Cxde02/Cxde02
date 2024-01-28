@@ -5,11 +5,14 @@
 
 ### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div><br>  
   
-- 🔭 I’m currently working on a python project
+- 🔭 I’m currently working on a Python Project
+- 🌱 I’m currently learning the concept Deep Learning  
+- ⚡ Fun fact: I use tabs over spaces
 
-- 🌱 I’m currently learning Deep Learning  
-
-- ⚡ Fun fact: I use tabs over spaces  
+<p align="center">
+  <b>❝Confusion is part of programming❞</b>
+</p>
+  
 
 <br/>  
 
