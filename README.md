@@ -1,5 +1,5 @@
 ![banner](./hgif.gif) 
-<img src="pic.png" alt="pic" height=150/>
+<img src="pic.png" alt="pic" height=150 align="center"/>
 ### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div><br>  
   
 - 🔭 I’m currently working on a python project
