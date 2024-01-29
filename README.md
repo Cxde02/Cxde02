@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-    <img src="bleft.png" alt="picl" height="30"/>
+    <img src="bleft.png" alt="picl" height="35"/>
     <img src="pic.png" alt="pic" height="150"/>
-    <img src="bright.png" alt="picr" height="30"/> 
+    <img src="bright.png" alt="picr" height="35"/> 
 </p>
 
 <div align="center">
