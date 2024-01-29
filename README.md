@@ -6,10 +6,12 @@
     <img src="pic.png" alt="pic" height="150"/>
 </p>
 
-<img src="bleft.png" alt="picl" height="80"/>
+<div align="center">
+    <img src="bleft.png" alt="picl" height="80"/>
+    <h3>I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3>
+    <img src="bright.png" alt="picr" height="80"/> <br>
+</div> 
 
-### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div> 
-<img src="bright.png" alt="picr" height="80"/> <br>
   
 - 🔭 I’m currently working on a Python Project
 - 🌱 I’m currently learning the concept Deep Learning  
