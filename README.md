@@ -6,7 +6,7 @@
     <img src="pic.png" alt="pic" height="150"/>
 </p>
 
-<div align="center" display="flex">
+<div align="center">
     <img src="bleft.png" alt="picl" height="25"/>
     <h3>I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3>
     <img src="bright.png" alt="picr" height="25"/> 
