@@ -3,11 +3,13 @@
 </div>
 
 <p align="center">
+    <img src="bleft.png" alt="picl" height="30"/>
     <img src="pic.png" alt="pic" height="150"/>
+    <img src="bright.png" alt="picr" height="30"/> 
 </p>
 
 <div align="center">
-    <img src="bleft.png" alt="picl" height="25"/><h3>I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3><img src="bright.png" alt="picr" height="25"/> 
+    <h3>I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3>
 </div> 
 <br>
   
