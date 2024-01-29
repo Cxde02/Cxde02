@@ -7,9 +7,9 @@
 </p>
 
 <div align="center" display="flex">
-    <img src="bleft.png" alt="picl" height="50"/>
+    <img src="bleft.png" alt="picl" height="20"/>
     <h3>I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3>
-    <img src="bright.png" alt="picr" height="50"/> 
+    <img src="bright.png" alt="picr" height="20"/> 
 </div> 
 <br>
   
