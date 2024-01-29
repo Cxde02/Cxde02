@@ -6,11 +6,11 @@
     <img src="pic.png" alt="pic" height="150"/>
 </p>
 
-<div align="center">
-    <img src="bleft.png" alt="picl" height="25"/>
-    <h3>I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3>
-    <img src="bright.png" alt="picr" height="25"/> 
-</div> 
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="bleft.png" alt="picl" height="50"/>
+  <h3 style="margin: 0;">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3>
+  <img src="bright.png" alt="picr" height="50"/>
+</div>
 <br>
   
 - 🔭 I’m currently working on a Python Project
