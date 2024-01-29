@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <h3 style="color: #16DB65;">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3>
+  <h3>I'm Ahmad Raza, a final year university student 🏫 majoring in Software Engineering 💻</h3>
 </div>
 
 <br>
