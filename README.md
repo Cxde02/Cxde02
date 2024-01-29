@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="bleft.png" alt="picl" height="100"/>
+    <img src="bleft.png" alt="picl" height="80"/>
     <img src="./hgif.gif" alt="banner" height="150"/>
-    <img src="bright.png" alt="picr" height="100"/>
+    <img src="bright.png" alt="picr" height="80"/>
 </div>
 <p align="center">
   <img src="pic.png" alt="pic" height="150"/>
