@@ -1,8 +1,6 @@
-![banner](./hgif.gif) 
+<img src="bleft.png" alt="picl" height="100"/>![banner](./hgif.gif)<img src="bright.png" alt="picr" height="100"/>
 <p align="center">
-  <img src="bleft.png" alt="picl" height="100"/>
   <img src="pic.png" alt="pic" height="150"/>
-  <img src="bright.png" alt="picr" height="100"/>
 </p>
 
 ### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div><br>  
