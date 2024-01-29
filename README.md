@@ -9,9 +9,9 @@
 <div align="center" display="flex">
     <img src="bleft.png" alt="picl" height="50"/>
     <h3>I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</h3>
-    <img src="bright.png" alt="picr" height="50"/> <br>
+    <img src="bright.png" alt="picr" height="50"/> 
 </div> 
-
+<br>
   
 - 🔭 I’m currently working on a Python Project
 - 🌱 I’m currently learning the concept Deep Learning  
