@@ -4,10 +4,10 @@
 
 <p align="center">
     <img src="pic.png" alt="pic" height="150"/>
-   
 </p>
 
 <img src="bleft.png" alt="picl" height="80"/>
+
 ### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div> 
 <img src="bright.png" alt="picr" height="80"/> <br>
   
