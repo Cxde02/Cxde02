@@ -1,10 +1,11 @@
 <div align="center">
-    <img src="bleft.png" alt="picl" height="80"/>
     <img src="./hgif.gif" alt="banner"/>
-    <img src="bright.png" alt="picr" height="80"/>
 </div>
+
 <p align="center">
-  <img src="pic.png" alt="pic" height="150"/>
+    <img src="bleft.png" alt="picl" height="80"/>
+    <img src="pic.png" alt="pic" height="150"/>
+    <img src="bright.png" alt="picr" height="80"/>
 </p>
 
 ### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div><br>  
