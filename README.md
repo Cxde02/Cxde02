@@ -1,6 +1,8 @@
 ![banner](./hgif.gif) 
 <p align="center">
+  <img src="b.png" alt="pic" height="100"/>
   <img src="pic.png" alt="pic" height="150"/>
+  <img src="b.png" alt="pic" height="100"/>
 </p>
 
 ### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div><br>  
