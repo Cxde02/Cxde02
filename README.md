@@ -10,7 +10,6 @@
 
 <div align="center">
   <h3>I'm Ahmad Raza, a final year university student 🏫 majoring in Software Engineering 💻</h3>
-    $${\color{green}A}$$
 </div>
 
 <br>
