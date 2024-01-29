@@ -3,12 +3,13 @@
 </div>
 
 <p align="center">
-    <img src="bleft.png" alt="picl" height="80"/>
     <img src="pic.png" alt="pic" height="150"/>
-    <img src="bright.png" alt="picr" height="80"/>
+   
 </p>
 
-### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div><br>  
+<img src="bleft.png" alt="picl" height="80"/>
+### <div align="center">I'm Ahmad, a final year university student 🏫 majoring in Software Engineering 💻</div> 
+<img src="bright.png" alt="picr" height="80"/> <br>
   
 - 🔭 I’m currently working on a Python Project
 - 🌱 I’m currently learning the concept Deep Learning  
