@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./HWsmall.gif" alt="banner"/>
+    <img src="./HWdark.gif" alt="banner"/>
 </div>
 
 <p align="center">
