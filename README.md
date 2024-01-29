@@ -1,6 +1,6 @@
 <div align="center">
     <img src="bleft.png" alt="picl" height="100"/>
-    <img src="./hgif.gif" alt="banner">
+    <img src="./hgif.gif" alt="banner" height="150"/>
     <img src="bright.png" alt="picr" height="100"/>
 </div>
 <p align="center">
