@@ -17,6 +17,9 @@
 - 🔭 I’m currently working on a Python Project
 - 🌱 I’m currently learning the concept Deep Learning  
 - ⚡ Fun fact: I use tabs over spaces
+  
+<br>
+
 <p align="center">
   <b>❝Confusion is part of programming❞ - Felienne Hermans</b>
 </p>
