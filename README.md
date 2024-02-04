@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="./tbv.gif" alt="boruto"/>
+    <img src="./tbv.gif" alt="boruto" height=75/>
 </div>
 
 
