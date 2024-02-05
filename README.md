@@ -120,11 +120,15 @@ Here are some ideas to get you started:
   <img src="./games/nfs.png" height="40" />&nbsp;
   <img src="./games/gta.png" height="40" />&nbsp;
   <img src="./games/f.png" height="40" />&nbsp;
+  <img src="./games/gow.png" height="40" />&nbsp;
+  <img src="./games/wd2.png" height="40" />&nbsp;
+  <img src="./games/smm.png" height="40" />&nbsp;
   <img src="./games/acD.png" height="40" />&nbsp;
   <img src="./games/mc.png" height="40" />&nbsp;
   <img src="./games/t.png" height="40" />&nbsp;
   <img src="./games/t8.png" height="40" />&nbsp;
   <img src="./games/tc.png" height="40" />&nbsp;
+  <img src="./games/nxb.png" height="40" />&nbsp;
   <img src="./games/tlou.png" height="40" />
 </div>
 
