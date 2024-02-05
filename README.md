@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## Gamer's Nook  
+## W-A-S-D 🎮  
 <div align="center">  
   <img src="./games/nfs.png" height="40" />&nbsp;
   <img src="./games/gta.png" height="40" />&nbsp;
