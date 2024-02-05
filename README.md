@@ -115,6 +115,14 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+## Gamer's Nook  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="45" /></a>  
+
+</a>
+
+</div>  
+
 
 
 
