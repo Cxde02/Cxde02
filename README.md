@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 <img src="./games/nfs.png" height="40" />  
 <img src="./games/gta.png" height="40" /> 
 <img src="./games/f.png" height="40" /> 
-<img src="./games/ac.png" height="40" /> 
+<img src="./games/acD.png" height="40" /> 
 <img src="./games/mc.png" height="40" /> 
 <img src="./games/t.png" height="40" /> 
 <img src="./games/t8.png" height="40" /> 
