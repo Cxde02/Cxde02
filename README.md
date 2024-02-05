@@ -117,7 +117,15 @@ Here are some ideas to get you started:
 
 ## Gamer's Nook  
 <div align="center">  
-<img src="./games/nfs.png" height="30" />  
+<img src="./games/nfs.png" height="40" />  
+<img src="./games/gta.png" height="40" /> 
+<img src="./games/f.png" height="40" /> 
+<img src="./games/ac.png" height="40" /> 
+<img src="./games/mc.png" height="40" /> 
+<img src="./games/t.png" height="40" /> 
+<img src="./games/t8.png" height="40" /> 
+<img src="./games/tc.png" height="40" /> 
+<img src="./games/tlou.png" height="40" /> 
 
 </a>
 
