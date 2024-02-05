@@ -117,16 +117,17 @@ Here are some ideas to get you started:
 
 ## Gamer's Nook  
 <div align="center">  
-<img style="margin: 20px" src="./games/nfs.png" height="40" />  
-<img style="margin: 10px" src="./games/gta.png" height="40" /> 
-<img style="margin: 10px"src="./games/f.png" height="40" /> 
-<img style="margin: 10px"src="./games/acD.png" height="40" /> 
-<img style="margin: 10px"src="./games/mc.png" height="40" /> 
-<img style="margin: 10px" src="./games/t.png" height="40" /> 
-<img style="margin: 10px" src="./games/t8.png" height="40" /> 
-<img style="margin: 10px" src="./games/tc.png" height="40" /> 
-<img style="margin: 10px" src="./games/tlou.png" height="40" />
+  <img src="./games/nfs.png" height="40" style="margin-right: 10px" />  
+  <img src="./games/gta.png" height="40" style="margin-right: 10px" /> 
+  <img src="./games/f.png" height="40" style="margin-right: 10px" /> 
+  <img src="./games/acD.png" height="40" style="margin-right: 10px" /> 
+  <img src="./games/mc.png" height="40" style="margin-right: 10px" /> 
+  <img src="./games/t.png" height="40" style="margin-right: 10px" /> 
+  <img src="./games/t8.png" height="40" style="margin-right: 10px" /> 
+  <img src="./games/tc.png" height="40" style="margin-right: 10px" /> 
+  <img src="./games/tlou.png" height="40" />
 </div>
+
   
 
 
