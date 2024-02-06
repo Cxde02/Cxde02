@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on a Python Project
 - 🌱 I’m currently learning the concept Deep Learning  
 - ⚡ Fun fact: I use tabs over spaces
-- 📫 How to reach me **ARRuhomaun@gmail.com**
+<!--- 📫 How to reach me **ARRuhomaun@gmail.com**-->
   
 <br>
 
