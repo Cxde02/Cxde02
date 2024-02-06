@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <b>❝Confusion is part of programming❞ - Felienne Hermans</b>
+  <b>❝𝓒𝓸𝓷𝓯𝓾𝓼𝓲𝓸𝓷 𝓲𝓼 𝓹𝓪𝓻𝓽 𝓸𝓯 𝓹𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰❞ - Felienne Hermans</b>
 </p>
   
 
