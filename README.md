@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 ## My Tech Stack:
 <div>
-    <h3>Languages: </h3>
+    <h4>Languages: </h4>
 </div>
 
 <br/>  
