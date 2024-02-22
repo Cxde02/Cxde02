@@ -13,7 +13,9 @@
     <h3>ℑ'𝔪 𝔄𝔥𝔪𝔞𝔡 ℜ𝔞𝔷𝔞, 𝔞 𝔣𝔦𝔫𝔞𝔩 𝔶𝔢𝔞𝔯 𝔲𝔫𝔦𝔳𝔢𝔯𝔰𝔦𝔱𝔶 𝔰𝔱𝔲𝔡𝔢𝔫𝔱 🏫 𝔪𝔞𝔧𝔬𝔯𝔦𝔫𝔤 𝔦𝔫 𝔖𝔬𝔣𝔱𝔴𝔞𝔯𝔢 𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯𝔦𝔫𝔤 💻</h3>
 </div>
 
+<!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=16AC5A&center=true&vCenter=true&random=false&width=800&lines=Hi+there!+%E2%84%91'%F0%9D%94%AA+%F0%9D%94%84%F0%9D%94%A5%F0%9D%94%AA%F0%9D%94%9E%F0%9D%94%A1+%E2%84%9C%F0%9D%94%9E%F0%9D%94%B7%F0%9D%94%9E;A+final+year+university+student+%F0%9F%8F%AB+majoring+in+Software+Engineering+%F0%9F%92%BB" alt="Typing SVG" /></a>
+-->
 
 <br>
   
