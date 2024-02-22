@@ -90,11 +90,10 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="45" /></a>  
 <a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://zoiqclients.s3.amazonaws.com/zoiqclientlogos/threejs.png" alt="Three.js" height="45" />
 </a>
+</div>  
 -->
 
-## My Tech Stack 
-
-</div>  
+## My Tech Stack
 
 <br/>  
 
