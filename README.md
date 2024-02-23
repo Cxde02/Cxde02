@@ -174,10 +174,11 @@ Here are some ideas to get you started:
     <img src="./tbv.gif" alt="boruto" height=75/>
 </div>
 
+<!--
 <div align="center">
     <img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white"/>
 </div>
-
+-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cxde02&label=Profile%20views&color=4CAF50&style=flat-square" alt="cxde02" />
 </p>
