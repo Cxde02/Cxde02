@@ -137,6 +137,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://instagram.com/a.hmadr_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:ARRuhomaun@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
