@@ -121,8 +121,11 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxde02&theme=blue-green&hide_border=true" alt="streak"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cxde02&hide_title=false&layout=compact&theme=blue-green&hide_border=false&langs_count=10" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=cxde02&theme=tokyonight"/>
 </div>
 <br>
+
+
 
 ## Connect with me  
 <div align="center">
