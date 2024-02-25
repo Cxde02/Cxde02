@@ -179,9 +179,6 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="./tbv.gif" alt="boruto" height=75/>
 </div>
-<div style="text-align: center;">
-    <img src="./tbv.gif" alt="boruto" height="75" style="transform: scaleY(-1);"/>
-</div>
 
 
 <!--
