@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cxde02&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&rank_icon=github" alt="stats graph"  />  <!--height="150"--> 
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxde02&theme=blue-green&hide_border=true" alt="streak"  /> <br>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cxde02&theme=blue-green&hide_border=true" alt="streak"  /> <br>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cxde02&hide_title=false&layout=compact&theme=blue-green&hide_border=false&langs_count=10" alt="languages graph"  />
   <!--<img src="https://github-profile-trophy.vercel.app/?username=cxde02&theme=tokyonight"/>-->
 </div>
