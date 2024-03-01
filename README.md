@@ -20,7 +20,7 @@
 <br>
   
 - 🔭 I’m currently working on a Python Project
-- 🌱 I’m currently learning the concept Deep Learning  
+- 🌱 I’m currently learning the concept of Deep Learning  
 - ⚡ Fun fact: I use tabs over spaces
 <!--- 📫 How to reach me **ARRuhomaun@gmail.com**-->
   
